@@ -52,5 +52,4 @@ public class Player : MonoBehaviour
         mana.Dark += addedDark;
         Mana = mana;
     }
-
 }
