@@ -59,5 +59,4 @@ public class Enemy : MonoBehaviour
         float clr = 1f - (float)EnemyHealth / (float)initHealth;
         Face.material.SetFloat("Power", clr);
     }
-    
 }
